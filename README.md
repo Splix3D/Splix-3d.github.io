@@ -1,2 +1,6 @@
-# Splix-3d.github.io
-App location
+<html>
+  <head>
+    window.onload()
+  </head>
+  Hello
+</html>
